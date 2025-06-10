@@ -1,0 +1,86 @@
+body {
+    background-color: rgba(0,0,0,0.2);
+}
+h1 {
+    font-style: italic;
+    font-size: 50px;
+}
+#Num1 {
+    height: 40px;
+    width: 290px;
+}
+#Num2 {
+    height: 40px;
+    width: 290px;
+}
+#btn {
+    height: 40px;
+    width: 200px;
+    font-size: 20px;
+    font-family:Arial,sans-serif;
+    box-shadow: tan 1px 5px 10px;
+    margin-top: 30px;
+}
+#btn2 {
+    height: 40px;
+    width: 200px;
+    font-size: 20px;
+    font-family:Arial,sans-serif;
+    box-shadow: tan 1px 5px 10px;
+    margin-top: 30px;
+}
+#btn3 {
+    height: 40px;
+    width: 200px;
+    font-size: 20px;
+    font-family:Arial,sans-serif;
+    box-shadow: tan 1px 5px 10px;
+    margin-top: 30px;
+}
+
+#btn4 {
+    height: 40px;
+    width: 200px;
+    font-size: 20px;
+    font-family:Arial,sans-serif;
+    box-shadow: tan 1px 5px 10px;
+    margin-top: 30px;
+}
+
+#btn5 {
+    height: 40px;
+    width: 200px;
+    font-size: 20px;
+    font-family:Arial,sans-serif;
+    box-shadow: tan 1px 5px 10px;
+    margin-top: 30px;
+}
+label {
+    font-style: italic;
+    font-size: 15px;
+}
+#Out {
+    height: 50px;
+    width: 300px;
+    padding-top: 10px;
+    padding-left: 20px;
+    text-align: center;
+    background-color: rgb(161, 156, 150);
+}
+/* 
+#Out:hover {
+    animation: FadeIn 5.5s infinite;
+} */
+
+@keyframes FadeIn {
+    from {
+        background-color: green;
+        opacity: 0;
+        rotate: 0deg;
+    }
+    to {
+        background-color: green;
+        opacity: 1;
+        rotate: 180deg;
+    }
+}
